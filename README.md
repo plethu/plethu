@@ -7,16 +7,16 @@ and the open formats underneath it. I do it for love, and for a living when
 someone's hiring. My [CV](https://codeberg.org/plethu/cv) is a public repo too,
 if you are.
 
-I've got opinions about what good software looks like. Local-first, so your data
-stays with you. Deterministic, so it does the same thing twice. Plain text you can
-read and keep. I like tools that make a few decisions for you and are upfront about
-them instead of burying you in options, and that trust the person using them.
+I've got opinions about what good software looks like. I want it local-first, so my
+data stays with me; deterministic, so it does the same thing twice; and kept in plain
+text I can still read in ten years. I'm drawn to tools that make a few decisions on my
+behalf and say so plainly, and that trust the person at the keyboard.
 
 Most of what I release started as something I wanted and couldn't find. I'll hack a
-rough version into whatever I'm working on, and if I keep reaching for it, clean it up
-and put it out in case someone else needs it too. I like that open source lets the
-good version outlive the project it came from, and gives me a commons to lean on
-and add to.
+rough version into whatever I'm working on, and if I keep reaching for it, I clean it
+up and put it out in case it's useful to someone else. There's something I like about
+open source letting the good version outlive the project it came from, and leaving me
+a commons to lean on and add to.
 
 ‿︵‿︵‿︵‿
 
