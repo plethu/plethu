@@ -29,7 +29,7 @@ wanted while writing dialogue for my own game. *(Pre-release.)*
 
 [**gatekeep**](https://codeberg.org/plethu/gatekeep) — A code-first authorization
 engine for Rust. Policies are ordinary Rust values, a pure deterministic core
-evaluates them, and every decision carries the reasons that produced it.
+evaluates them, and every decision comes with the reasons behind it.
 
 [**keepsake**](https://codeberg.org/plethu/keepsake) — gatekeep's sibling. A store
 for relation lifecycle state (holds, mutes, risk flags and the like), held until
@@ -42,14 +42,13 @@ policy ends it, with typed audit records.
 **tend** — A local-first, git-native task tracker for people and agents working
 together, and the open *tasklog* format underneath it. State is plain text in your
 repo, so everyone and everything reads and writes the same files. It tracks what
-moved and what's unblocked, and nothing about the people doing the work. *(Spec
-drafted; build not yet started.)*
+moved and what's unblocked, and nothing about the people doing the work.
 
 **wardmote** — A secure local runtime for general-purpose AI agents. It governs
 which skills, tools, files, memories, and actions an agent can use, with every
 decision grounded in explicit policy, sandboxing, and audit.
 Skills become permissioned procedures with versioning, capabilities, and
-revocation, closer to a standard library than a folder of prompts. *(In design.)*
+revocation, closer to a standard library than a folder of prompts.
 
 ‿︵‿︵‿︵‿
 
