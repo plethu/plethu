@@ -5,7 +5,7 @@
 I'm Allie (plethu online). I mostly build opinionated developer tooling, as well as the open formats underneath. I do it for sheer love of the game ([and for a living when
 someone's hiring](https://codeberg.org/plethu/cv)).
 
-I care about software that's accessible, ergonomic, and trustworthy, and try to make things a little easier for creatives and everyday users. Open formats are part of that: what I put into the commons stays forkable, not stuck in a product that'll be made worse over time.
+I care about software that's accessible, ergonomic, and trustworthy, and try to make things a little easier for creatives and everyday users.
 
 ‿︵‿︵‿︵‿
 
