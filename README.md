@@ -4,7 +4,7 @@
 
 I'm **Allie**, a Welsh software dev who wants to help other people out and make the internet a tiny bit kinder. I'm especially interested in UI/UX, accessibility, dev tools, fp. Feel free to reach out if you'd like to yap to me about any of those things!
 
-I also really love seals, I'm a huge writer, and I do some creative writing from time to time.
+I also really love seals, I'm a huge reader, and I do some creative writing from time to time.
 
 ‿︵‿︵‿︵‿
 
