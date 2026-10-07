@@ -1,0 +1,29 @@
+[global]
+flavor = "gfm"
+# This repository is small enough to check without a generated cache directory.
+cache = false
+
+# Opt into useful checks rather than inheriting a documentation style guide.
+# No line limit, required opening heading, punctuation/case policy, HTML ban,
+# bare-URL ban, or prescribed bullet, emphasis, and code-fence styles.
+enable = [
+  "MD001", # Keep heading nesting accessible; no requirement to start with H1.
+  "MD009", # Remove accidental trailing spaces, preserving Markdown line breaks.
+  "MD011", # Catch reversed link syntax.
+  "MD022", # Separate headings from surrounding content.
+  "MD031", # Separate code fences from surrounding content.
+  "MD032", # Separate lists from surrounding content.
+  "MD042", # Catch links with empty destinations.
+  "MD045", # Require image alt text.
+  "MD047", # End files with a newline.
+  "MD051", # Check links to heading anchors.
+  "MD052", # Catch undefined link/image references.
+  "MD056", # Keep table column counts consistent.
+  "MD057", # Catch missing files in relative links.
+  "MD062", # Catch whitespace inside link destinations.
+  "MD066", # Check footnote references and definitions.
+  "MD070", # Catch nested code fences that close a block too early.
+  "MD086", # Catch unclosed HTML comments.
+  "MD092", # Catch unresolved merge conflict markers.
+  "MD094", # Catch invalid UTF-8.
+]
