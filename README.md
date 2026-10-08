@@ -20,11 +20,11 @@ I also really love seals, I'm a huge reader, and I do some creative writing from
 
 _Something gets added here whenever I need/want something super specific for a project I'm working on and nothing out there quite fits; most of the below were made for the control plane of kumite._
 
-- [**gatekeep**](https://github.com/plethu/gatekeep) is an authorization engine for Rust. I wanted to write type-checked policies in ordinary Rust code, with a record of why access was granted or denied.
+- [**gatekeep**](https://github.com/plethu/gatekeep) is a policy-based AuthZ library for rust, with granular permit traces for thorough audit logs.
 
-- [**keepsake**](https://github.com/plethu/keepsake) is a Rust library for managing relations like holds, mutes, and tags, including their expiry and revocation. I've implemented this pattern a few times over my career and wanted to do it once "the correct way" for future reference.
+- [**keepsake**](https://github.com/plethu/keepsake) is a tiny Rust library of helpers and patterns that handle the boilerplate of defining and managing policy-held relations between entities—such as mutes, restrictions, and subscriptions.
 
-- [**dovecote**](https://github.com/plethu/dovecote) is a transactional outbox for Rust, built alongside Gatekeep and Keepsake for storing audit events and tracking their delivery. _(Pre-release.)_
+- [**dovecote**](https://github.com/plethu/dovecote) is a transactional outbox for Rust, built alongside Gatekeep and Keepsake for storing audit events and tracking their delivery in a CloudEvents-shaped format.
 
 ‿︵‿︵‿︵‿
 
