@@ -14,7 +14,7 @@ I also really love seals, I'm a huge reader, and I do some creative writing from
 
 - [**recite**](https://github.com/plethu/recite) is a small language and toolchain for writing dialogue and branching narratives in games. It's the tool I've always wished I had when working on dialogue-heavy games. _(Pre-release.)_
 
-- **kumite** is a set of modular primitives for building 2D/2.5D fighting games in [Bevy](https://github.com/bevyengine/bevy), since the bear (bare??) minimum technical barrier for indie fighting game devs is incredibly high and most tools are hundreds of dollars. Will be open sourcing it at some point when it's a little more put together and battle-tested.
+- **kumite** is a set of modular primitives for building 2D/2.5D fighting games in [Bevy](https://github.com/bevyengine/bevy), since the bare minimum technical barrier for indie fighting game devs is incredibly high and most tools are hundreds of dollars. Will be open sourcing it at some point when it's a little more put together and battle-tested.
 
 ### small'uns
 
